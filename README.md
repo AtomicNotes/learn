@@ -7,17 +7,17 @@ the top grades in your exams, all for free. Good luck!
 
 We are currently working on lessons for these courses:
 
-* [GCSE Courses](gcse)  
-  - [GCSE Biology](gcse/biology)  
-  - [GCSE Chemistry](gcse/chemistry)  
-  - [GCSE Physics](gcse/physics)  
-  - [GCSE Maths](gcse/maths)  
-  - [GCSE Geography](gcse/geography)  
-  - [GCSE History](gcse/history)  
-  - [GCSE Computer Science](gcse/computing)
-  - [GCSE English Language](gcse/englishlang)  
-  - [GCSE English Literature](gcse/englishlit)  
-  - [GCSE French](gcse/french)  
+* [GCSE Courses](gcse/README.md)  
+  - [GCSE Biology](gcse/biology/README.md)  
+  - [GCSE Chemistry](gcse/chemistry/README.md)  
+  - [GCSE Physics](gcse/physics/README.md)  
+  - [GCSE Maths](gcse/maths/README.md)  
+  - [GCSE Geography](gcse/geography/README.md)  
+  - [GCSE History](gcse/history/README.md)  
+  - [GCSE Computer Science](gcse/computing/README.md)
+  - [GCSE English Language](gcse/englishlang/README.md)  
+  - [GCSE English Literature](gcse/englishlit/README.md)  
+  - [GCSE French](gcse/french/README.md)  
 
 ## Branch stability
 
